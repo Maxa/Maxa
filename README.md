@@ -1,4 +1,4 @@
-Hi, I’m @Maxa
+Hi, I'm Mikko
 
 I'm interested in data, open source and you guessed it, open data. BSc in Environment Technology, I am currently pursuing my Master's in Management and Information Technology
 
