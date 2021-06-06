@@ -1,6 +1,6 @@
 Hi, I’m @Maxa
 
-I'm interested in data, open source and you guessed it, open data.
+I'm interested in data, open source and you guessed it, open data. BSc in Environment Technology, I am currently pursuing my Master's in Management and Information Technology
 
 I do some basic scripting, that you might find here. Below is listed the tools and programming languages that I often find myself using:
 - Microsoft Power BI (Power Query M, DAX) and Tableau
@@ -10,7 +10,7 @@ I do some basic scripting, that you might find here. Below is listed the tools a
 - Z shell
 
 I would like to learn more about:
-- Python. I have done basic programming including machine learning, but there is still a lot to learn
+- Python. I have done basic programming including machine learning at school, but there is still so much to learn
 - C#; perhaps some day
 
 <!---
